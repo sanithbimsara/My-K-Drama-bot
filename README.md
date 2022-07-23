@@ -5,17 +5,17 @@
 
 ## ◇───── BOT Features ─────◇
 
--🎯 Auto Filter
+- 🎯 Auto Filter
 - 🎲 Manual Filter
--📈 IMDB
--🔰 Automatically Update App Database
--📱 IMDB search
--🔎 Inline Search
--❗️ ids and User info
--💯 Spelling Check Feature
--🌐 File Store
--🚀 More Fast Downloads
--♻️ 24 Hour Active
+- 📈 IMDB
+- 🔰 Automatically Update App Database
+- 📱 IMDB search
+- 🔎 Inline Search
+- ❗️ ids and User info
+- 💯 Spelling Check Feature
+- 🌐 File Store
+- 🚀 More Fast Downloads
+- ♻️ 24 Hour Active
 
 ## ◇────────────────────◇
 ##
