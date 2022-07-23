@@ -1,8 +1,12 @@
 # [🍿 My K-Drama Bot 🍿](https://t.me/myKdrama_bot)
 
 
-![mod-apk-dp](https://user-images.githubusercontent.com/85282650/147602072-4d3e0241-2096-4e9f-9814-140288ed5bfb.png)
+![My K-Drama Bot](https://telegra.ph/file/ab4d0f4d603c5bb81ac1b.jpg)
 
+## ◇────────────────────◇
+## ◇───── About BOT ─────◇
+Here you can download Koren Tv series easyly.
+## ◇────────────────────◇
 ## ◇───── BOT Features ─────◇
 
 - 🎯 Auto Filter
