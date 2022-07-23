@@ -37,8 +37,15 @@
 
 ##
 
-[![🙋‍♂️ Tutorial Video](https://user-images.githubusercontent.com/85282650/147605214-e3676e85-9363-468c-b53a-a099bfe83846.png)](https://t.me/s/SingleDevelopers/640)
- 
+<p align="left">
+<a href="https://dev.to/hirunaofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hirunaofficial" height="30" width="40" /></a>
+<a href="https://twitter.com/hiruna_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hiruna_official" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hirunaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hirunaofficial" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20507748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20507748" height="30" width="40" /></a>
+<a href="https://fb.com/hirunaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hirunaofficial" height="30" width="40" /></a>
+<a href="https://instagram.com/hirunaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hirunaofficial" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/hiruna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hiruna" height="30" width="40" /></a>
+</p> 
 ##
 
 
