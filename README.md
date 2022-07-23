@@ -5,17 +5,17 @@
 
 ## ◇───── BOT Features ─────◇
 
-- 🔥 All Latest MOD App Versions 
-- ☘️ Inline MOD App Search
-- ✍️ Keyword MOD App Search
-- 🔰 Automatically Update App Database
-- 🎲 Powerd By Private API
-- 🪤 Inbox Supported
-- 🙋‍♂️ Supported For Groups 
-- ✅ 100% Working MOD Apps
-- 🚀 More Fast Downloads
-- 🎁 Stock Every Downloaded APK
-- ♻️ 24 Hour Active
+-🎯 Auto Filter
+-🎲 Manual Filter
+-📈 IMDB
+-🔰 Automatically Update App Database
+-📱 IMDB search
+-🔎 Inline Search
+-❗️ ids and User info
+-💯 Spelling Check Feature
+-🌐 File Store
+-🚀 More Fast Downloads
+-♻️ 24 Hour Active
 
 ## ◇────────────────────◇
 ##
