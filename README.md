@@ -39,8 +39,8 @@
 
 <p align="left">
 <a href="https://dev.to/hirunaofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hirunaofficial" height="30" width="40" /></a>
-<a href="https://fb.com/hirunaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hirunaofficial" height="30" width="40" /></a>
-<a href="https://instagram.com/hirunaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hirunaofficial" height="30" width="40" /></a>
+<a href="https://fb.com/hirunaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hirunaofficial" height="60" width="70" /></a>
+<a href="https://instagram.com/hirunaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hirunaofficial" height="60" width="70" /></a>
 </p> 
 ##
 
