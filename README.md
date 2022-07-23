@@ -6,7 +6,7 @@
 ## ◇───── BOT Features ─────◇
 
 -🎯 Auto Filter
--🎲 Manual Filter
+- 🎲 Manual Filter
 -📈 IMDB
 -🔰 Automatically Update App Database
 -📱 IMDB search
