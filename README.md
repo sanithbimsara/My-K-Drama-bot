@@ -44,28 +44,28 @@
 - /logs - to get the rescent errors<br>
 - /stats - to get status of files in db.<br>
 - /filter - add manual filters<br>
-- /filters - view filters
-- /connect - connect to PM.
-- /disconnect - disconnect from PM
-- /del - delete a filter
-- /delall - delete all filters
+- /filters - view filters<br>
+- /connect - connect to PM.<br>
+- /disconnect - disconnect from PM<br>
+- /del - delete a filter<br>
+- /delall - delete all filters<br>
 - /deleteall - delete all index(autofilter)
-- /delete - delete a specific file from index.
-- /info - get user info
-- /id - get tg ids.
-- /imdb - fetch info from imdb.
-- /users - to get list of my users and ids.
-- /chats - to get list of the my chats and ids 
-- /index  - to add files from a channel
-- /leave  - to leave from a chat.
-- /disable  -  do disable a chat.
-- /enable - re-enable chat.
-- /ban  - to ban a user.
-- /unban  - to unban a user.
-- /channel - to get list of total connected channels
-- /broadcast - to broadcast a message to all Eva Maria users
-- /batch - to create link for multiple posts
-- /link - to create link for one post
+- /delete - delete a specific file from index.<br>
+- /info - get user info<br>
+- /id - get tg ids.<br>
+- /imdb - fetch info from imdb.<br>
+- /users - to get list of my users and ids.<br>
+- /chats - to get list of the my chats and ids<br> 
+- /index  - to add files from a channel<br>
+- /leave  - to leave from a chat.<br>
+- /disable  -  do disable a chat.<br>
+- /enable - re-enable chat.<br>
+- /ban  - to ban a user.<br>
+- /unban  - to unban a user.<br>
+- /channel - to get list of total connected channels<br>
+- /broadcast - to broadcast a message to all Eva Maria users<br>
+- /batch - to create link for multiple posts<br>
+- /link - to create link for one post<br>
 </p>
 </details>
 ◇───────────────◇
