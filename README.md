@@ -42,8 +42,7 @@
 ```
 
 
-◇───────────────◇ ##
-##
+## ◇───────────────◇ 
 - ☘️ Developer : [@Sanithbimsara](https://t.me/Sanithbimsara)
 - [🔥 My K-Drama Bot Updats](https://t.me/myKdrama_botupdats) ©️
 
@@ -53,4 +52,4 @@
 <a href="https://fb.com/sanith.bimsara.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hirunaofficial" height="60" width="70" /></a>
 <a href="https://instagram.com/sanith_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hirunaofficial" height="60" width="70" /></a>
 </p> 
-◇───────────────◇
+## ◇───────────────◇
