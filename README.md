@@ -42,7 +42,7 @@
 ```
 
 
-◇───────────────◇
+◇───────────────◇ ##
 ##
 - ☘️ Developer : [@Sanithbimsara](https://t.me/Sanithbimsara)
 - [🔥 My K-Drama Bot Updats](https://t.me/myKdrama_botupdats) ©️
