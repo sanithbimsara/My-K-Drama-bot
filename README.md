@@ -23,8 +23,7 @@
 ◇───────────────◇
 ## 👑 My K-Drama Bot Commands
 
-<details><summary>Commands:</summary>
-<p>
+```
 * /stats - to get status of files in db.<br>
 * /filter - add manual filters<br>
 * /filters - view filters<br>
@@ -38,8 +37,7 @@
 * /imdb - fetch info from imdb.<br>
 * /batch - to create link for multiple posts<br>
 * /link - to create link for one post<br>
-</p>
-</details>
+```
 ◇───────────────◇
 ##
 
