@@ -34,7 +34,7 @@
 - 🔑 Keywords : app , apk , mod , /app , /apk , /mod
 - 💊 Example : mod Clash of Clans
 
-<details><summary>Deploy To VPS</summary>
+#<details><summary>My K-Drama Bot Commands</summary>
 <p>
 • /logs - to get the rescent errors
 • /stats - to get status of files in db.
