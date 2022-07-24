@@ -25,18 +25,18 @@
 
 ```
 * /stats - to get status of files in db.<br>
-* /filter - add manual filters<br>
-* /filters - view filters<br>
-* /connect - connect to PM.<br>
-* /disconnect - disconnect from PM<br>
-* /del - delete a filter<br>
-* /delall - delete all filters<br>
+* /filter - add manual filters 
+* /filters - view filters 
+* /connect - connect to PM. 
+* /disconnect - disconnect from PM 
+* /del - delete a filter 
+* /delall - delete all filters 
 * /deleteall - delete all index(autofilter)
-* /info - get user info<br>
-* /id - get tg ids.<br>
-* /imdb - fetch info from imdb.<br>
-* /batch - to create link for multiple posts<br>
-* /link - to create link for one post<br>
+* /info - get user info 
+* /id - get tg ids. 
+* /imdb - fetch info from imdb. 
+* /batch - to create link for multiple posts 
+* /link - to create link for one post
 ```
 ◇───────────────◇
 ##
