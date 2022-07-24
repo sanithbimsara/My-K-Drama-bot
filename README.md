@@ -42,9 +42,9 @@
 ##
 
 <p align="left">
-<a href="https://dev.to/hirunaofficial" target="blank"><img align="center" src="https://telegra.ph/file/2433d7a77438df5cb6d1d.mp4" alt="hirunaofficial" height="60" width="70" /></a>
-                                                <a href="https://fb.com/hirunaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hirunaofficial" height="60" width="70" /></a>
-<a href="https://instagram.com/hirunaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hirunaofficial" height="60" width="70" /></a>
+<a href="https://dev.to/sanithbimsara" target="blank"><img align="center" src="https://telegra.ph/file/e8aea8a7fec905c07749c.png" alt="hirunaofficial" height="70" width="70" /></a>
+<a href="https://fb.com/sanith.bimsara.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hirunaofficial" height="60" width="70" /></a>
+<a href="https://instagram.com/sanith_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hirunaofficial" height="60" width="70" /></a>
 </p> 
 ##
 
