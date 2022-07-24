@@ -41,9 +41,9 @@
 
 <details><summary>Commands:</summary>
 <p>
-- /logs - to get the rescent errors
-- /stats - to get status of files in db.
-- /filter - add manual filters
+- /logs - to get the rescent errors<br>
+- /stats - to get status of files in db.<br>
+- /filter - add manual filters<br>
 - /filters - view filters
 - /connect - connect to PM.
 - /disconnect - disconnect from PM
