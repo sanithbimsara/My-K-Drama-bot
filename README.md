@@ -21,7 +21,7 @@
 
 ## ◇────────────────────◇
 <p align="left">
-<a href="https://t.me/https://telegra.ph/file/ad9ae110beb49d3024c12.png" target="blank"><img align="center" src="https://telegra.ph/file/ad9ae110beb49d3024c12.png" alt="hirunaofficial" height="70" width="70" /></a>
+<a href="https://t.me/myKdrama_bot" target="blank"><img align="center" src="https://telegra.ph/file/b5737e69cafd750f8c374.jpg" alt="hirunaofficial" height="70" width="70" /></a>
 </p>
 
 ## ◇───────────────◇
